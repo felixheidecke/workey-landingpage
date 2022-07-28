@@ -1,0 +1,11 @@
+h2 {
+  font-size: 32px;
+  line-height: 44px;
+  color: var(--c-blue);
+}
+
+
+
+h2, h3, h4, strong, bold {
+  font-weight: 600;
+}
